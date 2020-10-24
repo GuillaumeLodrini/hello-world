@@ -1,0 +1,4 @@
+#Sat Oct 24 13:14:00 CEST 2020
+base.0=C\:\\Users\\Guillaume\\Documents\\OOPMobile\\flutter_app\\flutter_game_oop\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
