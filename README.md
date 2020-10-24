@@ -1,2 +1,5 @@
 # hello-world
-First repository used in order to understand bette git
+
+Hi people,
+
+I'm guillaume and i'd like to understand how make and commit work
